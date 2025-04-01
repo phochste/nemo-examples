@@ -1,3 +1,5 @@
+We moved to https://codeberg.org/phochste/nemo-examples
+
 # Nemo Examples
 
 [Nemo](https://knowsys.github.io/nemo-doc/) is a Graph Rule Engine. In this repository I provide some examples how to process RDF data.
